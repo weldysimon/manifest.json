@@ -1,11 +1,11 @@
 {
-  "name": "Soksimon",
-  "short_name": "Soksimon",
-  "start_url": "https://www.soksimon.com/",
+  "name": "Anaktoraja",
+  "short_name": "Anaktoraja",
+  "start_url": "https://www.anaktoraja.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Bisnis online dan rumahan terbaru, khotbah renungan Kristen, kunci gitar melodi.",
+  "description": "Anaktoraja.com adalah blog personal yang berisi informasi menarik dan terbaru.",
   "icons": [{
     "src": "https://3.bp.blogspot.com/-_kXJOV6OFus/XMFOQkdB7pI/AAAAAAAAGbg/vRNptADUOPQN4RxhClY5bpAFiDldLYp2ACLcBGAs/s48/icon_kta.png",
     "sizes": "48x48",
